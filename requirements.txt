@@ -1,0 +1,5 @@
+jax==0.2.12
+jaxlib==0.1.65
+numpy==1.20.2
+matplotlib
+tqdm
